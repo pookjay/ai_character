@@ -1,0 +1,16 @@
+﻿  application.cpp
+  audio_manager.cpp
+  elevenlab_manager.cpp
+  openai_manager.cpp
+  speech_recognition_manager.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Crazy\Documents\Visual Studio 2022\Projects\character_ai\character_ai\src\Core\speech_recognition_manager.cpp(52): warning C4715: 'GetTextFromSpeech': not all control paths return a value
+C:\Users\Crazy\Documents\Visual Studio 2022\Projects\character_ai\character_ai\src\Core\elevenlab_manager.cpp(69): warning C4715: 'GetAudioFromText': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  character_ai.vcxproj -> C:\Users\Crazy\Documents\Visual Studio 2022\Projects\character_ai\x64\Debug\character_ai.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  C:\Users\Crazy\Documents\Visual Studio 2022\Projects\character_ai\dependencies\sdl\lib\dll\SDL3.dll
+  C:\Users\Crazy\Documents\Visual Studio 2022\Projects\character_ai\dependencies\sdl\lib\dll\SDL3_mixer.dll
+  2 File(s) copied
